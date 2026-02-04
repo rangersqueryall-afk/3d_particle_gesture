@@ -1,0 +1,7 @@
+{
+  "name": "Lunar New Year 3D Particle Gestures",
+  "description": "An interactive 3D particle experience using hand gestures to trigger festive animations and messages for the Year of the Horse.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
